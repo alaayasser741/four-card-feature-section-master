@@ -30,6 +30,10 @@ p{
 header{
     white-space: nowrap;
 }
+header p{
+    width: 60%;
+    margin:0 auto;
+}
 .top-container{
     text-align: center;
 }
@@ -52,7 +56,7 @@ header{
     background: #fff;
     overflow: hidden;
     margin: 18px auto;
-    height: 200px;
+    height: 250px;
     padding: 20px;
     width: 350px;
     border-radius: 10px;
