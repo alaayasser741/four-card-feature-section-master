@@ -33,26 +33,23 @@ p{
 header{
     white-space: nowrap;
 }
-header p{
-    width: 60%;
-    margin:0 auto;
-}
 .top-container{
     text-align: center;
 }
 .top-container h1{
-    font-size: 2rem;
+    font-size: 1.7rem;
     font-weight: 200;
     color: var(--Grayish-Blue);
 }
 .top-container h2{
     margin-top: -20;
-    font-size: 2rem;
+    font-size: 1.7rem;
     color: var(--Very-Dark-Blue);
 }
 .top-container p{
-    font-size: 1.2rem;
+    font-size: 15px;
     white-space: pre-wrap;
+    padding-bottom: 30px;
 }
 .col{
     position: relative;
